@@ -7,4 +7,4 @@ Project for clothespins-based MIDI Talking Drum
 
 ![Belle-Iloise](/pics/inside.jpg)
 
-![Belle-Iloise](/pics/nano.jpg)
+![Belle-Iloise](/pics/mini.jpg)
