@@ -1,2 +1,2 @@
-# Belle-Eloise
+# Belle-Iloise
 Project for a midi Talking Drum
