@@ -1,5 +1,5 @@
 # Belle-Iloise
-### Project for an Arduino Mini-based MIDI Talking Drum
+### Project for an Arduino Mini based MIDI Talking Drum
 
 I made this device in 2017; it's a MIDI controller thought to be used as a talking drum: make a sound tapping on the round pad, and modulate the MIDI PitchBend command by squeezing on the clothespin.
 On top, three knobs allow to adjust volume, note duration, PitchBend span of the clothespin. On the bottom side there are the on/off mini switch and MIDI out 5-pins DIN socket.
