@@ -1,16 +1,9 @@
 /* Talking Drum "la Belle-Iloise"
-  Data: 01/05/2017
-  Hardware: ARDUINO MINI PRO 5V 16MHz
-
-  2.0 08/05/2017
-  doppia modalità 0 ed 1
-
-  1.0 04/05/2017
-  sostituito compressor con volume
-  modifica calcolo note_number in base a sensitivity
-
-  0.1 01/05/2017
-  prima revisione
+  author: Sandro Grassia
+  email: sandro.grassia@gmail.com
+  date: 01/05/2017
+  
+  Board: ARDUINO MINI PRO 5V 16MHz
 */
 
 #define midi_ch 0 // canale midi (0 == canale 1)
