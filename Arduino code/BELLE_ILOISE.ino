@@ -1,4 +1,4 @@
-/* Talking Drum con drum "la Belle-Iloise"
+/* Talking Drum "la Belle-Iloise"
   Data: 01/05/2017
   Hardware: ARDUINO MINI PRO 5V 16MHz
 
