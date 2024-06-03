@@ -8,7 +8,7 @@ The device runs with 2x1.5V AA batteries; a small voltage regulator steps the vo
 ![Belle-Iloise](/pics/fronte.jpg)
 
 
-The name comes from the metal case branded "la belle-eloise".
+The name comes from the metal case branded "la belle-iloise".
 
 ![Belle-Iloise](/pics/retro.jpg)
 
