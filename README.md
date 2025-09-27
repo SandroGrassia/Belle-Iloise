@@ -21,3 +21,7 @@ This Belle-Iloise was the second piece/version I made, more compact than the pre
 This picture shows the Arduino Mini, the small board without USB port, based on an ATmega328P.
 
 ![Belle-Iloise](/pics/mini.jpg)
+
+*Schematics*
+
+![Belle-Iloise](/pics/schematics.jpg)
