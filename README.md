@@ -1,5 +1,5 @@
 # Belle-Iloise
-### Project for an midi Talking Drum
+### Project for a midi Talking Drum
 
 this midi controller, that I made in 2017, is designed to be used as a talking drum.
 Sound is triggered by tapping on the round pad, the pitch is modulated by squeezing the clothespin.
